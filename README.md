@@ -1,2 +1,2 @@
 # functionsnodebot
-AzureFunctionsBotでNode.jsテンプレート検証
+AzureFunctionsBotでNode.jsテンプレート検証中
